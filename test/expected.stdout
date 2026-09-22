@@ -1,0 +1,29 @@
+enumFromTo
+enumFromThenTo
+upFrom
+upFromIncluding
+downFrom
+downFromIncluding
+defaultCardinality is stack safe
+defaultToEnum is stack safe
+defaultFromEnum is stack safe
+charToEnum
+charToEnum
+Checking simple pred bottom
+Checking simple (pred =<< succ bottom)
+Checking simple succ top
+Checking simple (succ =<< pred top)
+Checking composite pred bottom
+Checking composite (pred =<< succ bottom)
+Checking composite succ top
+Checking composite (succ =<< pred top)
+Checking product pred bottom
+Checking product (pred =<< succ bottom)
+Checking product succ top
+Checking product (succ =<< pred top)
+Checking simple cardinality
+Checking composite cardinality
+Checking product cardinality
+Checking simple toEnum/fromEnum roundtrip
+Checking composite toEnum/fromEnum roundtrip
+Checking product toEnum/fromEnum roundtrip
